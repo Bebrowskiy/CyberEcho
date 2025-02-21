@@ -1,0 +1,4 @@
+speechrecognition
+pyaudio
+edge-tts
+google-genai
