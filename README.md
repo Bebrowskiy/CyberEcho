@@ -20,7 +20,7 @@ AI Voice Assistant is a personal project designed to bring seamless voice intera
 1. Clone the repository:
    ```sh
    git clone https://github.com/Bebrowskiy/CyberEcho.git
-   cd your-repo
+   cd CyberEcho
    ```
 2. Install dependencies:
    ```sh
